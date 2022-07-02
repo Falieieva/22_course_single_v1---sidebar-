@@ -10,11 +10,6 @@ body {
 body {
   font-family: "Jost", sans-serif;
 }
-.header {
-  width: 1920px;
-  height: 110px;
-  border: 1px solid #e7e7ec;
-}
 .container-fluid {
   box-sizing: border-box;
   width: 370px;
